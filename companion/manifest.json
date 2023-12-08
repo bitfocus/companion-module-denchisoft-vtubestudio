@@ -1,0 +1,27 @@
+{
+	"id": "vtubestudio",
+	"name": "vtubestudio",
+	"shortname": "vtubestudio",
+	"description": "Simple module for connecting to and controlling VTube Studio",
+	"version": "0.0.1",
+	"license": "MIT",
+	"repository": "git+https://github.com/bitfocus/companion-module-vtubestudio.git",
+	"bugs": "https://github.com/bitfocus/companion-module-vtubestudio/issues",
+	"maintainers": [
+		{
+			"name": "Bryan Veloso",
+			"email": "bryan@velo.so",
+			"url": "https://bryanvelo.so"
+		}
+	],
+	"legacyIds": [],
+	"runtime": {
+		"type": "node18",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "..\\dist\\index.js"
+	},
+	"manufacturer": "DenshiSoft",
+	"products": ["VTube Studio"],
+	"keywords": ["Software"]
+}
