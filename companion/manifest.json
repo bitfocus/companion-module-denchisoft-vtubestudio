@@ -9,10 +9,10 @@
 	"bugs": "https://github.com/bitfocus/companion-module-vtubestudio/issues",
 	"maintainers": [
 		{
-			"name": "Bryan Veloso",
-			"email": "bryan@velo.so",
-			"url": "https://bryanvelo.so"
-		}
+      "name": "Bryan Veloso",
+      "email": "bryan@omny.pro",
+      "url": "https://omnyist.productions"
+    }
 	],
 	"legacyIds": [],
 	"runtime": {

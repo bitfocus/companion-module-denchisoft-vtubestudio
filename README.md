@@ -5,5 +5,5 @@ Module allowing basic interaction, model swapping, and hotkey triggers with [VTu
 
 ## Patch Notes
 
-**v1.0.0**
+**v0.0.1**
 - Initial release.
